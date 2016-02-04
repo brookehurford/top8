@@ -1,0 +1,18 @@
+div {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  padding: 20px 20px 0px 20px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+p {
+  text-align: center
+}
